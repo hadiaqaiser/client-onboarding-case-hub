@@ -14,7 +14,7 @@ A service team needs one place to record new client-onboarding requests, assign 
 | --- | --- |
 | **Dynamics 365 Customer Service** | Created and managed client-onboarding cases for the `Fourth Coffee` sample account, including priority, status, notes and resolution. |
 | **Power Apps** | Created a responsive Canvas app connected to the Dataverse **Cases** table for browsing case records. |
-| **Power Automate** | Created the `D365 Client Onboarding Case Notification` cloud flow. It is configured to trigger when a new Dataverse Case is added and send a service notification email. |
+| **Power Automate** | Created the `D365 Client Onboarding Case Notification` cloud flow. It triggers when a new Dataverse Case is added and sends a service notification email. |
 | **Power BI** | Built the saved **Client Onboarding Service Dashboard** to analyse onboarding cases by status, case title, request type and service owner. |
 | **Azure DevOps** | Created an Epic and four Issues to represent the delivery backlog: D365 Case Intake, Automated Case Notification, Power Apps Case View and Power BI Case Dashboard. |
 | **Excel** | Created the fictional source dataset used for the Power BI report. |
@@ -22,7 +22,7 @@ A service team needs one place to record new client-onboarding requests, assign 
 ## Key functionality
 
 1. A service agent creates an onboarding case in Dynamics 365.
-2. The Dataverse-triggered Power Automate flow is configured to notify the service team.
+2. The Dataverse-triggered Power Automate flow notifies the service team.
 3. Users can browse the Dynamics 365 Cases data through the Power Apps canvas app.
 4. Power BI provides an operational view of case status, request type and ownership.
 5. Azure DevOps captures the Epic and implementation backlog.
