@@ -1,0 +1,9 @@
+# Local/editor files
+.DS_Store
+*.inspect.ndjson
+
+# Generated previews
+*_preview.png
+
+# Local build dependencies
+build/node_modules

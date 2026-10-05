@@ -1,0 +1,6 @@
+Case ID,Case Title,Customer,Contact Email,Request Type,Priority,Status,Service Owner,Created Date,Target Date,Resolution
+ONB-001,New Client Onboarding Request,Fourth Coffee,claudia@example.com,Account setup,Normal,Resolved,Hadia Qaiser,2026-10-05,2026-10-06,Client details validated and onboarding request completed
+ONB-002,Client Onboarding Access Follow-up,Fourth Coffee,claudia@example.com,Access request,High,In Progress,Hadia Qaiser,2026-10-05,2026-10-06,
+ONB-003,New Client Onboarding Request,GreenGrid Energy,aisha@example.com,Account setup,Normal,New,Service Team,2026-10-06,2026-10-07,
+ONB-004,Client Onboarding Data Query,Harbour Retail,daniel@example.com,Data validation,Normal,New,Service Team,2026-10-06,2026-10-08,
+ONB-005,Client Onboarding Access Follow-up,SunStream Power,liam@example.com,Access request,High,In Progress,Service Team,2026-10-07,2026-10-08,
