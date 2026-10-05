@@ -1,7 +1,0 @@
-Work Item Type,Title,Description,Acceptance Criteria,Priority
-Feature,Client Onboarding Case Hub,Provide one visible process for onboarding requests from submission to resolution,Requests can be created prioritised assigned tracked and resolved,1
-User Story,Submit an onboarding request,As a client I want to submit my onboarding request so that the service team can begin setup,Required customer request type and priority fields are captured,1
-User Story,Track an active request,As a service owner I want to view active onboarding cases so that I can manage follow-up,Active cases show customer priority owner and status,1
-User Story,Notify the service owner,As a service owner I want to receive a notification when a request is submitted so that I can respond promptly,An automated email or Teams notification is sent when a request is created,2
-User Story,View service reporting,As a manager I want to view case status and priority so that I can monitor onboarding workload,Dashboard shows case count by status and priority,2
-Task,Create UAT evidence,Record test result for a submitted high-priority onboarding request,Expected and actual outcomes are documented,2
